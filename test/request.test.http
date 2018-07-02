@@ -1,0 +1,9 @@
+POST http://localhost:5000
+content-type: application/json
+
+{
+    "url": "https://github.com/Dario0117/metascrapper-implementation"
+}
+
+###
+GET http://localhost:5000

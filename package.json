@@ -1,6 +1,6 @@
 {
-  "name": "metascrapper-implementation",
-  "version": "1.0.0",
+  "name": "metascraper-implementation",
+  "version": "1.0.1",
   "description": "implementation as a web service of metascraper library",
   "main": "index.js",
   "engines": {
